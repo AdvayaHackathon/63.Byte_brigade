@@ -1,0 +1,101 @@
+Age	Weight	Height	Sex	Smoking	Alcohol	Exercise Frequency	Diet Type	Sleep Timings	Symptoms	Family History
+55	74.8	169.3	Female	Yes	Yes	Daily	Healthy	5-7 hours	Heart Palpitations	No
+37	55.3	194	Female	No	No	3-5 days/week	Average	7-9 hours		Yes
+57	59.1	187.3	Female	Yes	Yes	None	Poor	7-9 hours	Fatigue; Shortness of Breath; Heart Palpitations	No
+59	78.4	183.4	Male	No	Yes	Daily	Healthy	<5 hours	Dizziness; Fatigue; Chest Pain	No
+44	65.4	187.8	Female	No	No	None	Healthy	>9 hours	Chest Pain; Fatigue; Dizziness	No
+35	69.6	176.4	Male	No	No	1-2 days/week	Poor	7-9 hours	Dizziness; Chest Pain	Yes
+61	67.6	177.1	Female	No	Yes	Daily	Healthy	>9 hours	Chest Pain; Heart Palpitations	No
+32	82.4	158.4	Male	Yes	No	Daily	Average	7-9 hours	Shortness of Breath; Fatigue	Yes
+30	82.2	156.9	Female	Yes	No	3-5 days/week	Healthy	<5 hours		Yes
+43	81.3	178.6	Male	Yes	No	Daily	Poor	7-9 hours	Heart Palpitations; Fatigue	No
+71	59.1	154.2	Male	Yes	Yes	1-2 days/week	Healthy	5-7 hours	Shortness of Breath; Dizziness	Yes
+63	62.8	159	Female	Yes	No	1-2 days/week	Average	<5 hours	Chest Pain	No
+62	80.6	178.4	Male	No	No	Daily	Healthy	<5 hours		No
+72	69	164.6	Male	Yes	Yes	3-5 days/week	Poor	>9 hours	Chest Pain; Heart Palpitations; Fatigue	No
+46	74.3	179.7	Male	No	No	1-2 days/week	Healthy	7-9 hours	Heart Palpitations; Dizziness; Shortness of Breath	Yes
+43	52.6	197.2	Female	No	Yes	None	Healthy	>9 hours	Heart Palpitations; Chest Pain	No
+51	83.5	178.7	Male	No	No	None	Healthy	<5 hours	Fatigue	Yes
+44	65.5	187.1	Female	Yes	No	1-2 days/week	Average	5-7 hours		Yes
+60	91.5	150.9	Male	Yes	Yes	1-2 days/week	Poor	5-7 hours		No
+48	93.2	161.8	Male	Yes	Yes	Daily	Poor	<5 hours	Chest Pain	Yes
+52	53.1	151.6	Male	No	Yes	1-2 days/week	Poor	<5 hours	Heart Palpitations; Chest Pain; Fatigue	Yes
+54	52.7	164.5	Female	Yes	No	Daily	Healthy	5-7 hours	Dizziness; Chest Pain	No
+69	65.1	155.3	Male	No	Yes	3-5 days/week	Healthy	5-7 hours	Dizziness; Shortness of Breath	Yes
+76	82.8	187.7	Female	No	Yes	None	Average	<5 hours	Dizziness; Shortness of Breath	Yes
+69	82.3	152.7	Male	No	No	1-2 days/week	Healthy	5-7 hours		Yes
+62	63.3	198.2	Female	Yes	Yes	3-5 days/week	Average	5-7 hours	Fatigue; Heart Palpitations; Dizziness	Yes
+54	95.8	165.6	Male	Yes	Yes	None	Healthy	>9 hours	Dizziness; Heart Palpitations	Yes
+43	73.5	172.7	Female	Yes	Yes	3-5 days/week	Poor	>9 hours		No
+76	81.2	175.6	Male	No	No	3-5 days/week	Healthy	<5 hours	Dizziness; Fatigue; Heart Palpitations	Yes
+62	94	157.3	Female	Yes	Yes	Daily	Poor	<5 hours		Yes
+44	75.8	166.2	Female	No	Yes	1-2 days/week	Poor	5-7 hours	Heart Palpitations; Dizziness	No
+33	95.7	186.4	Female	No	No	3-5 days/week	Healthy	<5 hours	Dizziness	Yes
+37	58	180	Female	No	Yes	3-5 days/week	Poor	5-7 hours	Chest Pain; Shortness of Breath	No
+48	75.9	158.9	Female	No	No	1-2 days/week	Healthy	<5 hours	Fatigue; Shortness of Breath; Dizziness	Yes
+37	94.9	170.6	Female	No	Yes	3-5 days/week	Poor	<5 hours	Chest Pain	Yes
+30	78.2	169.5	Male	No	No	3-5 days/week	Healthy	<5 hours	Shortness of Breath; Heart Palpitations	Yes
+43	82.5	154	Male	No	No	3-5 days/week	Poor	7-9 hours	Dizziness	No
+66	55.3	198	Male	No	Yes	Daily	Healthy	<5 hours	Fatigue	Yes
+55	64	172.1	Female	No	No	Daily	Poor	5-7 hours	Heart Palpitations	Yes
+45	50.9	158.3	Male	No	Yes	1-2 days/week	Healthy	<5 hours		No
+52	95.9	184.6	Female	Yes	No	None	Poor	<5 hours	Heart Palpitations; Dizziness; Shortness of Breath	No
+41	96.8	155.9	Male	Yes	No	1-2 days/week	Average	>9 hours	Shortness of Breath; Heart Palpitations; Chest Pain	No
+41	98.1	195.4	Male	No	No	None	Average	>9 hours	Heart Palpitations; Fatigue; Shortness of Breath	No
+47	92.7	179.3	Female	No	Yes	Daily	Poor	7-9 hours		Yes
+80	98.4	183.1	Female	Yes	No	3-5 days/week	Healthy	5-7 hours	Heart Palpitations	No
+74	69.3	151.8	Male	No	Yes	None	Poor	<5 hours	Fatigue; Shortness of Breath	No
+68	55.9	190.6	Female	Yes	No	Daily	Average	7-9 hours		No
+32	61.5	185.4	Female	No	Yes	3-5 days/week	Healthy	>9 hours	Dizziness	Yes
+72	58.4	188.6	Male	Yes	No	None	Average	<5 hours		Yes
+40	99.3	152.6	Female	No	Yes	None	Average	5-7 hours	Chest Pain; Fatigue	No
+60	85.9	174.3	Female	No	Yes	3-5 days/week	Poor	7-9 hours	Dizziness; Chest Pain	No
+30	69.5	194.3	Female	No	Yes	None	Healthy	>9 hours		No
+34	55.2	160	Female	No	No	3-5 days/week	Healthy	5-7 hours	Chest Pain; Dizziness	Yes
+34	76.8	157.1	Female	Yes	No	3-5 days/week	Poor	>9 hours	Shortness of Breath; Fatigue	No
+60	98	164.8	Female	No	No	None	Healthy	7-9 hours		No
+76	72.4	161	Male	No	Yes	1-2 days/week	Average	>9 hours	Dizziness; Heart Palpitations; Shortness of Breath	No
+64	69.6	189.4	Female	Yes	No	3-5 days/week	Healthy	<5 hours	Chest Pain; Heart Palpitations	Yes
+47	66.2	191.5	Male	No	Yes	3-5 days/week	Poor	7-9 hours	Shortness of Breath	Yes
+31	92.3	156.6	Female	No	Yes	None	Average	<5 hours	Chest Pain	Yes
+56	69.7	153.5	Male	No	No	3-5 days/week	Average	5-7 hours	Dizziness; Chest Pain	Yes
+57	97.9	163	Male	Yes	No	1-2 days/week	Poor	>9 hours		Yes
+76	88.7	179.9	Male	No	No	None	Poor	5-7 hours		Yes
+51	53.5	161.9	Male	Yes	No	3-5 days/week	Average	7-9 hours	Dizziness	Yes
+38	68.4	199.7	Female	No	No	1-2 days/week	Average	>9 hours	Chest Pain; Shortness of Breath	Yes
+36	68.7	182.4	Female	No	No	3-5 days/week	Healthy	7-9 hours	Dizziness; Chest Pain; Shortness of Breath	Yes
+47	55.6	150.1	Female	Yes	No	None	Healthy	7-9 hours	Shortness of Breath; Heart Palpitations; Chest Pain	Yes
+79	87.1	169.4	Female	Yes	Yes	Daily	Average	>9 hours	Fatigue	No
+65	69.3	187.1	Male	Yes	No	3-5 days/week	Healthy	7-9 hours	Dizziness	Yes
+72	72.4	197.5	Female	Yes	Yes	3-5 days/week	Poor	<5 hours	Heart Palpitations	Yes
+32	54.7	199.6	Male	Yes	No	3-5 days/week	Poor	<5 hours		Yes
+30	53.5	161.6	Female	Yes	Yes	3-5 days/week	Healthy	7-9 hours	Heart Palpitations; Fatigue; Chest Pain	No
+56	85.5	189.8	Male	No	Yes	1-2 days/week	Average	5-7 hours		Yes
+40	52.5	161.8	Female	Yes	No	None	Average	5-7 hours	Fatigue	Yes
+36	75.4	170.9	Male	Yes	No	Daily	Average	7-9 hours	Shortness of Breath; Dizziness	No
+79	90.7	169.3	Male	No	No	None	Healthy	7-9 hours	Heart Palpitations; Fatigue	No
+37	95.3	171	Female	Yes	No	3-5 days/week	Healthy	7-9 hours	Fatigue	Yes
+60	80.9	187.1	Female	Yes	Yes	None	Healthy	<5 hours	Shortness of Breath	Yes
+68	88.1	156.1	Male	No	No	Daily	Healthy	<5 hours	Chest Pain	No
+55	90.7	194.5	Male	No	Yes	None	Poor	7-9 hours		Yes
+30	74	166.3	Male	No	Yes	None	Average	5-7 hours	Shortness of Breath; Heart Palpitations; Fatigue	Yes
+71	68.3	152	Female	Yes	No	3-5 days/week	Healthy	>9 hours	Shortness of Breath; Chest Pain; Heart Palpitations	Yes
+77	75.6	170.9	Male	No	Yes	Daily	Average	7-9 hours		Yes
+57	77.4	194.4	Male	No	Yes	Daily	Healthy	>9 hours	Fatigue; Chest Pain; Heart Palpitations	No
+30	77.2	180.1	Female	Yes	Yes	1-2 days/week	Healthy	5-7 hours	Dizziness	Yes
+38	57.8	186.9	Female	No	Yes	None	Healthy	5-7 hours	Heart Palpitations	Yes
+62	61.1	190.7	Female	Yes	No	Daily	Healthy	<5 hours	Chest Pain	Yes
+80	83.6	158.4	Male	Yes	Yes	1-2 days/week	Healthy	7-9 hours		Yes
+71	84.9	170.7	Male	No	Yes	3-5 days/week	Healthy	>9 hours	Fatigue	No
+40	56.4	171.4	Female	Yes	Yes	3-5 days/week	Average	<5 hours	Chest Pain; Shortness of Breath; Dizziness	Yes
+74	54.6	151.1	Female	No	No	None	Average	<5 hours	Chest Pain; Dizziness; Fatigue	No
+58	67.7	185	Female	No	Yes	1-2 days/week	Average	7-9 hours		No
+61	53.7	165.5	Male	No	Yes	Daily	Poor	<5 hours	Heart Palpitations; Shortness of Breath; Fatigue	Yes
+51	93.5	153.9	Male	Yes	No	Daily	Poor	7-9 hours		No
+60	82.7	183.5	Male	No	No	None	Poor	5-7 hours	Heart Palpitations; Dizziness; Fatigue	Yes
+57	68.5	169.4	Male	No	Yes	3-5 days/week	Healthy	7-9 hours	Heart Palpitations; Fatigue; Chest Pain	Yes
+45	75.1	161.1	Female	Yes	Yes	Daily	Poor	<5 hours	Chest Pain	No
+37	96.9	155.7	Female	Yes	No	Daily	Poor	>9 hours	Fatigue; Heart Palpitations	Yes
+70	88.7	184.2	Female	No	No	None	Poor	<5 hours	Shortness of Breath; Fatigue; Heart Palpitations	Yes
+66	98.8	172.4	Female	No	No	Daily	Poor	<5 hours		Yes
+66	60.8	180.5	Male	No	Yes	1-2 days/week	Poor	7-9 hours	Fatigue; Chest Pain; Shortness of Breath	Yes
