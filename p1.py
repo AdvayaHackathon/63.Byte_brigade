@@ -1,52 +1,41 @@
+
+
+
 import pandas as pd
-import matplotlib.pyplot as plt
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import classification_report
 import pickle
 
+# 1. Load the dataset
+# Replace with your actual dataset filename
+df = pd.read_csv("C:/Users/abhij/OneDrive/Desktop/heart_disease_inputs_dataset.csv")
 
-data = pd.read_csv("heart_disease_inputs_dataset.csv")
-print(data.head())
+# 2. Check the columns
+print("Columns in dataset:", df.columns)
 
-print(data.isnull().sum())
+# 3. Separate features and target
+# Replace 'target' with the actual name of your label column
+X = df.drop("Smoking", axis=1)
+y = df["Family_History"]
+print(type(y))
+print(y.head())
+print(y.shape)
 
-features = data[["Age", "Weight", "Height", "Smoking", "Alcohol", "Exercise Frequency", "Diet Type", "Sleep Timings","Symptoms","Family History"]]
-target = data['Heart Disease']
+# 4. Split into training and testing sets
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-print(features)
-print(target)
+# 5. Initialize and train the model
+model = RandomForestClassifier(n_estimators=100, random_state=42)
+model.fit(X_train, y_train)
 
-x_train, x_test, y_train, y_test = train_test_split(features, target, random_state = 3136)
+# 6. Evaluate accuracy (optional)
+accuracy = model.score(X_test, y_test)
+print(f"Model accuracy: {accuracy:.2f}")
 
-model = RandomForestClassifier()
-model.fit(x_train, y_train)
+# 7. Save the retrained model
+with open("heartdiseaseprediction1", "wb") as f:
+    pickle.dump(model, f)
 
-"""
-print(model.feature_importances_)
-x = features.columns
-y = model.feature_importances_
-plt.bar(x,y)
-plt.xlabel("Features")
-plt.ylabel("Importances")
-plt.show()
+print("Model retrained and saved as 'heartdiseaseprediction1'")
 
-
-#important features --> Age, Chest Pain, BP, cholestrol, Max_HR(max heart rate), ST_depression, Number of vessels fluro, Thallium
-# what to drop --> sex, FBS over 12kg, EKG results, excercise angina, slope of ST
-
-"""
-
-y_pred = model.predict(x_test)
-
-print(x_test)
-print(y_test)
-print(y_pred)
-
-cr = classification_report(y_pred, y_test)
-print(cr)
-
-
-with open("heartdiseaseprediction.model", "wb") as f:
-	pickle.dump(model, f)
 
